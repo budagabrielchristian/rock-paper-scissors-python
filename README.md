@@ -27,7 +27,7 @@ This is a Python implementation of the classic game **Rock, Paper, Scissors**, w
 ### Steps:
 1. Clone the repository or download the Python files to your local machine.
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-python.git
+   git clone https://github.com/budagabrielchristian/rock-paper-scissors-python.git
    ```
 2. Navigate to the directory where the Python files are stored.
    ```bash
